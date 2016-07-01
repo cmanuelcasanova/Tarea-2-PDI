@@ -1,0 +1,28 @@
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\bin\Debug\PDI-Tarea1.exe
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\bin\Debug\PDI-Tarea1.pdb
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Properties.Resources.resources
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csproj.GenerateResource.Cache
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.exe
+c:\users\manuel casanova\documents\visual studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.pdb
+C:\Users\Manuel Casanova\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form1.resources
+C:\Users\Manuel Casanova\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Manuel Casanova\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form2.resources
+C:\Users\Manuel Casanova\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form3.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.exe
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.pdb
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\bin\Debug\PDI-Tarea1.exe
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\bin\Debug\PDI-Tarea1.pdb
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form1.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form2.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form3.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Properties.Resources.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\PDI-Tarea1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.exe
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.pdb
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Form1.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI_Tarea1.Properties.Resources.resources
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\obj\x86\Debug\PDI-Tarea1.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\bin\Debug\PDI-Tarea1.exe
+C:\Users\Familia\Documents\Visual Studio 2010\Projects\Pdi Tarea 1\PDI-Tarea1\bin\Debug\PDI-Tarea1.pdb
